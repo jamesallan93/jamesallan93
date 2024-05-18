@@ -65,7 +65,7 @@ I'm actively seeking opportunities to contribute with my expertise to resolve an
  
 ## Education
 
-  - FAM (Faculdade de Americana)
+  - Graphic Design - FAM (Faculdade de Americana)
   - Americana, São Paulo, Brazil
   - Years Attended: 2015 - 2016
  
