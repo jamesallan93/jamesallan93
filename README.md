@@ -16,60 +16,7 @@
 Full-stack developer proficient in PHP, JavaScript, and the Vue.js ecosystem, with a strong focus on Laravel. 
 Comfortable working with Linux environments and utilizing Docker for containerization. Seeking opportunities to leverage expertise in building robust web applications and UI designs.
 I'm actively seeking opportunities to contribute with my expertise to resolve any day-to-day challenges.
- 
-
-## Experiences
-
- 
-### Freelancing
-- Freelance Developer
-  - July 2022 - **Present** ✅
-  - Remote
-  - Engaging in diverse development projects, leveraging full-stack expertise to deliver high-quality solutions.
- 
-### 011brasil Centro de Tecnologia
--   Mid Level Full Stack Developer
-    - August 2020 - July 2022
-    - São Paulo, Brazil
-    - Hybrid
-    - Software House, Full-stack developer, solving multiple clients problems,  
-
-### Beelabs
-- Junior Development Assistant
-  - July 2019 - August 2020
-  - São Paulo, Brazil
-  - Full-time 
-  - Maintained in-house software, a chat SaaS platform for WhatsApp.
-
-### Evolutime
-- English Instructor
-  - March 2019 - July 2019 
-  - Osasco, SP
-  - Taught English to various age groups and occasionally led computer classes.
-
-### Texpoy LTDA
-- Graphic Designer
-  - January 2016 - July 2017
-  - Americana, SP
-  - Texpoy is a textile industry company, responsible for developing graphic designs for textiles, ensuring print quality, and maintaining brand standards.
- 
-### MICROCAMP
-- English Instructor
-  - July 2013 - December 2013
-  - Americana, SP
-  - Taught English to various age groups and occasionally led computer classes.
-
-
----
-
- 
-## Education
-
-  - Graphic Design - FAM (Faculdade de Americana)
-  - Americana, São Paulo, Brazil
-  - Years Attended: 2015 - 2016
- 
-
+  
  
 ## Languages
 
